@@ -1,0 +1,6 @@
+Visualizing Results
+1. Plot protocol distribution:
+TrafficVisualizer.plot_protocol_distribution(protocol_count)
+
+2. Plot top talkers:
+TrafficVisualizer.plot_top_talkers(top_talkers)
